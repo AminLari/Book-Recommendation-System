@@ -26,7 +26,7 @@ To run the project, install Python and the required libraries.
 - Pandas
 
 ### Steps
-1. **Clone the repository:**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/AminLari/Book-Recommendation-System.git
    cd Book-Recommendation-System
@@ -37,7 +37,7 @@ To run the project, install Python and the required libraries.
    pip install tensorflow keras numpy pandas
 
 ## Usage
-1. **Prepare the dataset**
+1. **Prepare the dataset:**
    Ensure the CSV files are in the working directory.
 
 2. **Run the training and evaluation script:**
@@ -45,7 +45,7 @@ To run the project, install Python and the required libraries.
    ```bash
    python main.py
 
-3. **Customize**
+3. **Customize:**
    Modify main.py to adjust dataset paths and parameters.
 
 ## Results
