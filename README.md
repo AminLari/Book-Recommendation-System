@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a CNN-based book recommendation system using Keras in Python. It predicts user preferences based on book metadata and ratings.
-<p> <img src="https://github.com/user-attachments/assets/d382679b-878c-477b-b95c-c4752653258e" width="600"> </p>  
+<p> <img src="https://github.com/user-attachments/assets/d382679b-878c-477b-b95c-c4752653258e" width="1000"> </p>  
 
 ## Features
 - **CNN Model:** Trained using book rating data.
