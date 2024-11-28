@@ -56,5 +56,11 @@ To run the project, install Python and the required libraries.
 - The system predicts book ratings based on user preferences.
 <p> <img src="https://github.com/user-attachments/assets/e974c64a-db9b-44ba-ae62-75540dd8b4ae" width="600"> </p>  
 
-## Contact
-For questions or suggestions, please contact Amin Lari.
+## 📞 Contact
+If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
+
+- **Name**: Mohammadamin Lari  
+- **Email**: [mohammadamin.lari@gmail.com](mailto:mohammadamin.lari@gmail.com)  
+- **GitHub**: [AminLari](https://github.com/aminlari)
+
+You are welcome to create issues or pull requests to improve the project. Contributions are highly appreciated! 
