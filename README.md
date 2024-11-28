@@ -50,8 +50,11 @@ To run the project, install Python and the required libraries.
    Modify main.py to adjust dataset paths and parameters.
 
 ## Results
+- The system recommends books to user.
+<p> <img src="https://github.com/user-attachments/assets/a3d50a3e-f0a9-4297-a0d0-d88960e78b0f" width="600"> </p>  
+
 - The system predicts book ratings based on user preferences.
-- ou can test its performance using the pretrained models and provided datasets.
+<p> <img src="https://github.com/user-attachments/assets/e974c64a-db9b-44ba-ae62-75540dd8b4ae" width="600"> </p>  
 
 ## Contact
 For questions or suggestions, please contact Amin Lari.
