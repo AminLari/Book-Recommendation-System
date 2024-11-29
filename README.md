@@ -30,8 +30,6 @@ To run the project, install Python and the required libraries.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AminLari/Book-Recommendation-System.git
-   cd Book-Recommendation-System
-
 
 2. **Install the dependencies**
    ```bash
